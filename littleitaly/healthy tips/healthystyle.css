@@ -1,0 +1,46 @@
+.nav-links{
+    
+    border-radius: 3px;
+  
+ 
+}
+.nav-links ul{
+    overflow:auto;
+    border-radius: 5px;
+}
+.nav-links li{
+
+   
+    font-family: 'PT Sans Narrow', sans-serif;
+    display:inline-block;
+    list-style:none;
+    padding: 10px 10px;
+    margin: 3px;
+}
+.nav-links li a{
+   
+    padding:3px 3px;
+    text-decoration: none;
+    color: rgb(5, 0, 0);
+    font-family: 'PT Sans Narrow', sans-serif;
+    
+
+}
+.nav-links li a:hover {
+    background-color: rgb(135, 135, 110);
+}
+
+.text {
+    text-align: center;
+    position: relative;
+    bottom: 450px;
+    font-size: 50px;
+    color: rgb(213,213,203);
+}
+
+.tips {
+    font-style: italic;
+    font-size: 30px;
+    color: rgb(0, 0, 0);
+
+}

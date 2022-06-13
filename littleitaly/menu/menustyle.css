@@ -1,0 +1,116 @@
+.body {
+    background-color: rgb(213, 213, 203);
+    position: cover;
+
+}
+.nav-links{
+    
+    border-radius: 3px;
+  
+ 
+}
+.nav-links ul{
+    overflow:auto;
+    border-radius: 5px;
+}
+.nav-links li{
+
+   
+    font-family: 'PT Sans Narrow', sans-serif;
+    display:inline-block;
+    list-style:none;
+    padding: 10px 10px;
+    margin: 3px;
+}
+.nav-links li a{
+   
+    padding:3px 3px;
+    text-decoration: none;
+    color: rgb(5, 0, 0);
+    font-family: 'PT Sans Narrow', sans-serif;
+    
+
+}
+.nav-links li a:hover {
+    background-color: rgb(135, 135, 110);
+}
+
+
+.text {
+    text-align: center;
+    position: relative;
+    bottom: 450px;
+    font-size: 50px;
+    color: rgb(213, 213, 203);
+}
+
+.pasta {
+
+    font-style: italic;
+    font-size: 20px;
+    position: relative;
+    bottom: 220px;
+    left: 180px;
+    margin: 10px;
+    float: left;
+    padding: 70px;
+}
+
+.salads {
+    font-size: 20px;
+    font-style: italic;
+    position: relative;
+    right: 210px;
+    float: right;
+    bottom: 220px;
+    padding: 70px;
+    margin: 10px;
+
+}
+
+.pizza {
+
+    font-style: italic;
+    position: relative;
+    bottom: 220px;
+    left: 180px;
+    margin: 10px;
+    font-size: 20px;
+    float: left;
+    padding: 70px;
+}
+
+.maindishes {
+
+    font-style: italic;
+    position: relative;
+    right: 210px;
+    float: right;
+    bottom: 220px;
+    padding: 70px;
+    margin: 10px;
+    font-size: 20px;
+}
+
+.desserts {
+    font-size: 20px;
+    font-style: italic;
+    position: relative;
+    bottom: 220px;
+    left: 180px;
+    margin: 10px;
+    float: left;
+    padding: 70px;
+}
+
+.drinks {
+    font-size: 20px;
+    font-style: italic;
+    position: relative;
+    right: 210px;
+    float: right;
+    bottom: 220px;
+    padding: 70px;
+    margin: 10px;
+
+}

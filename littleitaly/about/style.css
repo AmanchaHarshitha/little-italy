@@ -1,0 +1,25 @@
+ 
+.text {
+     text-align: center;
+     position:relative;
+      bottom: 450px ;
+       font-size:50px;
+        color: rgb(213, 213, 203);
+}
+.about{
+    font-size: 30px;
+    font-style: italic;
+    position:relative;
+    bottom: 250px;
+    background-color: rgb(213, 213, 203);
+    height: 500px;
+}
+.magazines{
+    background-color: black;
+    position: relative;
+    bottom:255px;
+    font-size: 30px;
+    font-family:'Lora',serif;
+    color:rgb(213, 213, 203);
+    height:1200px;
+}

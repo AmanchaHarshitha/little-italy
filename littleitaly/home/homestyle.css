@@ -1,0 +1,125 @@
+*{
+    margin: 0px;
+    padding: 0px;
+
+}
+
+.description{
+    color: rgb(0, 0, 0);
+    margin: 20px;
+    font-size: 30px;
+    padding: 20px 20px;
+    }
+
+.nav-links{
+    
+    border-radius: 3px;
+  
+ 
+}
+.nav-links ul{
+    overflow:auto;
+    border-radius: 5px;
+}
+.nav-links li{
+
+   
+    font-family: 'PT Sans Narrow', sans-serif;
+    display:inline-block;
+    list-style:none;
+    padding: 10px 10px;
+    margin: 3px;
+}
+.nav-links li a{
+   
+    padding:3px 3px;
+    text-decoration: none;
+    color: rgb(5, 0, 0);
+    font-family: 'PT Sans Narrow', sans-serif;
+    
+
+}
+.nav-links li a:hover {
+    background-color: rgb(135, 135, 110);
+}
+
+.dish{
+    
+    position: relative;
+    border-radius: 3px;
+    width: 550px;
+    height: 300px;
+    font-size: 25px;
+    padding: 20px;
+    margin: 10px;
+    box-sizing: border-box;
+
+    
+}
+.para{
+    
+    margin: 20px;
+    border-radius: 3px;
+   font-size: 30px;
+    color: rgb(0, 0, 0);
+   padding: 20px 20px;
+    position: relative;
+    float: right;
+    font-style: italic;
+    bottom: 150px;
+    
+}
+.form{
+    background-color: black;
+    width: 520px;
+    height: 500px;
+    margin: 20px;
+    padding-top: 20px 20px;
+    position: relative;
+    float: right;
+    left: 650px;
+    margin-top: 30px;
+    top: 100px;
+}
+.form h1{
+    background-color: rgb(0, 0, 0);
+      font-size: 20px;
+      margin-bottom: 20px;
+      color: rgb(255, 255, 255);
+  
+  }
+  .form textarea{
+      margin: 10px;
+      margin-top: 10px;
+      padding: 20px;
+      width: 450px;
+      height: 300px;
+      background-color: rgb(255, 255, 255);
+      font-size: 20px;
+      align-items: center;
+  }
+  .form button{
+      padding: 10px;
+      margin: 10px;
+      border: 0;
+      position: relative;
+      width: 500px;
+      background-color: beige;
+      font-size: 20px;
+      border-radius: 5px;
+      outline: none;
+      cursor: pointer;
+  }
+
+.special{
+    position: relative; 
+    border-radius: 3px;
+    text-align: center;
+    bottom: 350px;
+    height: 50px;
+    width: 350px;
+    margin: 30px;
+    padding: 20px 20px;
+    font-size: 30px;
+    color: rgb(87, 2, 2);
+}
